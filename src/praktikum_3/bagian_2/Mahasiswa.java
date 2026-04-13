@@ -1,7 +1,5 @@
 package modul_3.bagian_2;
 
-import java.security.SecureRandom;
-
 public class Mahasiswa {
     private String nama;
     private int umur;
